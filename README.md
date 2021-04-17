@@ -9,6 +9,10 @@ The purpose of this project was to analyze rideshare data for the ride-sharing a
 -	Create box-and-whisker plots that visualize and determine any outliers for the number of rides for each city type, the fares for each city type, and the number of drivers for each city type
 -	Create pie charts that visualize the percent of total fares, the percent of total rides, and the percent of total drivers
 
+## Resources
+-	Data Source: PyBer_ride_data.csv, city_data.csv, ride_data.csv
+-	Software: Python 3.6.1, Jupyter Notebook 6.2.0
+
 ## Analysis
 ### *Load CSV Files*
 To begin, I created a new jupyter notebook file named PyBer and imported the Pandas and Matplotlib libraries with the Pyplot module:
